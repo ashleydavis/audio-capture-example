@@ -1,7 +1,7 @@
 {
-    "name": "react-parcel-example",
+    "name": "audio-capture-example",
     "version": "1.0.0",
-    "description": "",
+    "description": "An example of recording audio in a web page.",
     "source": "src/index.html",
     "scripts": {
         "start": "parcel",

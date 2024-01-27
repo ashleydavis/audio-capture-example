@@ -1,6 +1,8 @@
-# Frontend example with Parcel, React and Less
+# audio-capture-example
 
-This is the simplest possible example of a frontend built with TypeScript and React and bundled with Parcel (v2).
+An example of recording audio in a web page.
+
+This is a first step in my learning how to control a chatbot with your voice.
 
 If you like this project, please star this repo and [support my work](https://www.codecapers.com.au/about#support-my-work)
 
